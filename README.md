@@ -1,3 +1,3 @@
 # Thrivr Project 🚀🚀
 
-Built with React Native CLI 🔥🔥💀
+```Built with React Native CLI 🔥🔥💀```
