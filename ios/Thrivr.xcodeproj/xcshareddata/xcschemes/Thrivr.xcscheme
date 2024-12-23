@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "BareRNC.app"
-               BlueprintName = "BareRNC"
-               ReferencedContainer = "container:BareRNC.xcodeproj">
+               BuildableName = "Thrivr.app"
+               BlueprintName = "Thrivr"
+               ReferencedContainer = "container:Thrivr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BareRNCTests.xctest"
-               BlueprintName = "BareRNCTests"
-               ReferencedContainer = "container:BareRNC.xcodeproj">
+               BuildableName = "ThrivrTests.xctest"
+               BlueprintName = "ThrivrTests"
+               ReferencedContainer = "container:Thrivr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BareRNC.app"
-            BlueprintName = "BareRNC"
-            ReferencedContainer = "container:BareRNC.xcodeproj">
+            BuildableName = "Thrivr.app"
+            BlueprintName = "Thrivr"
+            ReferencedContainer = "container:Thrivr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BareRNC.app"
-            BlueprintName = "BareRNC"
-            ReferencedContainer = "container:BareRNC.xcodeproj">
+            BuildableName = "Thrivr.app"
+            BlueprintName = "Thrivr"
+            ReferencedContainer = "container:Thrivr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

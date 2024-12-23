@@ -1,4 +1,4 @@
-package com.barernc
+package com.thrivr
 
 import android.app.Application
 import com.facebook.react.PackageList
